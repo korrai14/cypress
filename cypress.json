@@ -1,0 +1,9 @@
+{
+    
+  "chromeWebSecurity": false,
+  "defaultCommandTimeout" : 8000,
+  "env":{
+    "url":"https://www.independent.co.uk/"
+  },
+  "testFiles": "**/*.feature"
+  }
